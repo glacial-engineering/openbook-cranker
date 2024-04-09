@@ -9,6 +9,11 @@
       "address": "CCepXEQxo8eTqCGtRHXrSnZdhCEQjQeEW3M85AH9skMJ",
       "name": "STEP/USDC",
       "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+    },
+    {
+      "address": "91tFrYxdbJ6s5bQU86DeUfPZEUp6eAP1L3Tt3LKKL8bB",
+      "name": "ORE/SOL",
+      "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
     }
   ],
   "devnet": [
